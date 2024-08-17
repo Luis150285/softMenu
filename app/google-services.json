@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682561372001",
+    "project_id": "softmenu-a0c07",
+    "storage_bucket": "softmenu-a0c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682561372001:android:73971e260a3d6306f38f20",
+        "android_client_info": {
+          "package_name": "com.example.softmenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43rsYRKAC3v_koQ09YThcDR0NvLUTVfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
